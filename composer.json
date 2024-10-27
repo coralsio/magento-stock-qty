@@ -1,5 +1,5 @@
 {
-    "name": "Corals/stock-qty-m2",
+    "name": "corals/stock-qty-m2",
     "description": "Magento 2 Extension shows quantity in stock on product page, compatible with configurable product",
     "type": "magento2-module",
     "version": "1.0.0",
@@ -10,8 +10,8 @@
     "authors": [
         {
             "name": "Corals",
-            "email": "support@Corals.com",
-            "homepage": "https://www.Corals.com/",
+            "email": "support@corals.io",
+            "homepage": "https://corals.io/",
             "role": "Developer"
         }
     ],
