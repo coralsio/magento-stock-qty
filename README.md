@@ -3,9 +3,9 @@
 ## Demo:
 
 ### Simple Product Page
-![Simple Product stock quantity](http://www.Corals.com/media/Corals/stock-qty-m2/frontend-simple-product.png)
+![Simple Product stock quantity](screenshots/simple_product.png)
 ### Configurable Product Page
-![Configurable Product quantity](http://www.Corals.com/media/Corals/stock-qty-m2/frontend-configurable-product.png)
+![Configurable Product quantity](screenshots/configurable_product.png)
 
 ## Installation via composer
 
