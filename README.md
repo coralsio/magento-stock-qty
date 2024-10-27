@@ -3,9 +3,9 @@
 ## Demo:
 
 ### Simple Product Page
-![Simple Product stock quantity](screenshots/simple_product.png)
+![Simple Product stock quantity](Screenshots/simple_product.png)
 ### Configurable Product Page
-![Configurable Product quantity](screenshots/configurable_product.png)
+![Configurable Product quantity](Screenshots/configurable_product.png)
 
 ## Installation via composer
 
